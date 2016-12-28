@@ -1,0 +1,6 @@
+name: EndResetTpSpawn
+version: 0.0.1-SNAPSHOT
+author: SimonOrJ
+description: Teleport players who left off in the End to the Spawn
+main: com.arcaneminecraft.endreset.TpSpawn
+website: https://arcaneminecraft.com/
