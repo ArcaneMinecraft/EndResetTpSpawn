@@ -11,7 +11,7 @@ import org.bukkit.event.player.PlayerTeleportEvent.TeleportCause;
 import org.bukkit.plugin.java.JavaPlugin;
 
 public class TpSpawn extends JavaPlugin {
-	private static final long END_RESET_TIME = 1482961133526L; // Subject to change when the actual reset happens.
+	private static final long END_RESET_TIME = 1482966400000L; // Subject to change when the actual reset happens.
 	
 	public void onEnable() {
 		getServer().getPluginManager().registerEvents(new CheckEndTime(), this);
